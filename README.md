@@ -1,2 +1,3 @@
 # S_dev
-S 개발자
+1_day class
+how to use git
